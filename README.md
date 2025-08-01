@@ -1,2 +1,2 @@
 # Spiritmarsrover.github.io
-pages
+<h1>pages</h1>
